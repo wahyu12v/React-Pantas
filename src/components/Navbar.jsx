@@ -16,7 +16,7 @@ function Navbar() {
         <li><a href="#home">Home</a></li>
         <li><a href="#definisi">Definisi</a></li>
         <li><a href="#team">Team Kami</a></li>
-        <li><a href="/lapor.html">Laporkan</a></li>
+        <li><a href="#tutorial">Laporkan</a></li>
       </ul>
     </nav>
   )
